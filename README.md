@@ -2,7 +2,8 @@
 - 👀 I’m interested in being as a redhat system administrator. 
 - 🌱 I’m currently learning java, redhat, and network. 
 - 💞️ I’m looking to collaborate on something that would enrich the knowledge. 
-- 📫 Reach me @ realdanaaung@gmail.com
+- 📫 Reach me at realdananaung@gmail.com.
+- Thanks!
 
 <!---
 realdominic/realdominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
